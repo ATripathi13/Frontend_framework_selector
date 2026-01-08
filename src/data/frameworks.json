@@ -1,0 +1,36 @@
+{
+  "frameworks": [
+    {
+      "name": "React",
+      "characteristics": {},
+      "strengths": [],
+      "weaknesses": [],
+      "bestFor": [],
+      "risks": []
+    },
+    {
+      "name": "Vue",
+      "characteristics": {},
+      "strengths": [],
+      "weaknesses": [],
+      "bestFor": [],
+      "risks": []
+    },
+    {
+      "name": "Angular",
+      "characteristics": {},
+      "strengths": [],
+      "weaknesses": [],
+      "bestFor": [],
+      "risks": []
+    },
+    {
+      "name": "Svelte",
+      "characteristics": {},
+      "strengths": [],
+      "weaknesses": [],
+      "bestFor": [],
+      "risks": []
+    }
+  ]
+}
