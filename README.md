@@ -40,4 +40,4 @@ A VS Code extension that serves as a decision-support tool for developers choosi
 
 ## License
 
-MIT
+@2026 Akshat Tripathi 
