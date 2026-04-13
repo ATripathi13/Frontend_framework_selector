@@ -38,6 +38,3 @@ A VS Code extension that serves as a decision-support tool for developers choosi
 4. Follow the interactive prompts to specify your requirements
 5. View the comprehensive comparison results in the WebView panel
 
-## License
-
-@2026 Akshat Tripathi 
